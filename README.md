@@ -1,10 +1,5 @@
 # 💫 Hi, I'm CaiusLuo | AI Agent & Backend Engineer
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaiusLuo&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiusLuo&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
 ---
 
 ### 🚀 About Me
@@ -37,13 +32,6 @@ I am a backend-focused developer specializing in **AI Agent Systems** and robust
 #### 🤖 AI & Agent Frameworks
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badge&logo=google-cloud&logoColor=white)
-
----
-
-### 📊 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaiusLuo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</div>
 
 ---
 
