@@ -1,6 +1,5 @@
 # 💫 Hi, I'm CaiusLuo | AI Agent & Backend Engineer
 
----
 
 ### 🚀 About Me
 I am a backend-focused developer specializing in **AI Agent Systems** and robust backend services. I prioritize **engineering quality** and building production-ready systems.
