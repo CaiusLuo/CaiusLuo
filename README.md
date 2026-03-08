@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Caius | AI Agent & Backend Engineer
+# 💫 Hi, I'm Caius | AI Agent & Backend Intern
 
 
 ### 🚀 About Me
